@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 729
     width: 1324
     height: 218
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 119
+  controlID: 124
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1324
     y: 0
-    width: 321
+    width: 285
     height: 947
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
@@ -243,7 +243,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 321
+    width: 285
     height: 631
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -269,7 +269,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 631
-    width: 321
+    width: 285
     height: 316
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -293,9 +293,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1645
+    x: 1609
     y: 0
-    width: 275
+    width: 311
     height: 947
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
@@ -669,9 +669,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.049464434, y: 3.134494, z: -0.552598}
+    m_Target: {x: -1.1739539, y: -0.058700085, z: -0.012870789}
     speed: 2
-    m_Value: {x: -0.049464434, y: 3.134494, z: -0.552598}
+    m_Value: {x: -1.1739539, y: -0.058700085, z: -0.012870789}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -717,13 +717,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.029060312, y: 0.050364744, z: 0.0014791536, w: -0.99832916}
+    m_Target: {x: -0.17400318, y: 0.011233027, z: -0.0019793122, w: -0.98471075}
     speed: 2
-    m_Value: {x: 0.030554727, y: 0.051858686, z: 0.0016005054, w: -0.9981857}
+    m_Value: {x: -0.17399774, y: 0.011232676, z: -0.0019792502, w: -0.98468}
   m_Size:
-    m_Target: 0.8660254
+    m_Target: 10.40772
     speed: 2
-    m_Value: 0.8660254
+    m_Value: 10.40772
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -874,7 +874,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1324
     y: 73
-    width: 319
+    width: 283
     height: 610
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -891,18 +891,18 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2ea4ffffdcdcffffaee4ffff
+      m_ExpandedIDs: 9491ffff4edeffff54e2fffffceaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: StoneMonster
-        m_OriginalName: StoneMonster
+        m_Name: Cloud-A
+        m_OriginalName: Cloud-A
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -23506
+        m_UserData: -29564
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -937,7 +937,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1324
     y: 704
-    width: 319
+    width: 283
     height: 295
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -960,7 +960,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Class3th(GetComponent)/Fantasy Skybox FREE
+    - Assets/Class4th(Translate)/Scripts
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -976,7 +976,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 86590000
     m_LastClickedID: 22918
-    m_ExpandedIDs: 00000000421e0000461e00004e1e0000561e00005a1e0000621e00007e1e0000227100002471000026710000287100002a7100002c7100002e7100003071000032710000
+    m_ExpandedIDs: 00000000481e00004c1e0000501e0000541e0000581e00005c1e0000641e0000681e00006c1e0000701e00007c1e0000801e000096610000986100009a6100009c6100009e610000a0610000a2610000a4610000a6610000a8610000aa610000ac610000ae610000b0610000b2610000b4610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1001,21 +1001,21 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 87}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: a6b3ffffd8b9ffffffffffff00000000421e0000461e00004e1e0000561e00005a1e0000621e00007e1e0000227100002471000026710000287100002a7100002c7100002e71000030710000327100006071000064710000847100008a7100008e71000092710000ae710000b6710000ba710000be710000ce7d0000d27d0000
+    m_ExpandedIDs: ffffffff00000000481e0000601e0000641e00006c1e00007c1e0000801e0000841e00000025000004250000082500000c250000102500009a6100009c6100009e610000a0610000a2610000a4610000a6610000a8610000aa610000ac610000ae610000b0610000b2610000e6610000ea6100000c620000146200001c62000064630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Move
-      m_OriginalName: Move
+      m_Name: AirCraft
+      m_OriginalName: AirCraft
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 29878
+      m_UserData: 25448
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -1080,9 +1080,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1645
+    x: 1609
     y: 73
-    width: 274
+    width: 310
     height: 926
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1176,7 +1176,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
