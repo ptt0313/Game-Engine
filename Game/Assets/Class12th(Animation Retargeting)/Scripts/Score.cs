@@ -6,9 +6,12 @@ using UnityEngine.UI;
 public class Score : MonoBehaviour
 {
     [SerializeField] Text score;
-    [SerializeField] DataManager dataManager;
-    void Update()
+    private void Awake()
     {
-        score.text = dataManager.score.ToString();
+        score = GetComponent<Text>();
+    }
+    public void OnUpdate(int random)
+    {
+        score.text = "Score\n" + random.ToString();
     }
 }
